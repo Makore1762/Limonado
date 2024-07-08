@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Limonada</string>
+    <string name="limon_arbol">Toca para agarrar un limon</string>
+    <string name="limon_arbol_desc">Arbol de Limon</string>
+    <string name="limon_limon">Toca para apachurrar</string>
+    <string name="limon_limon_desc">Limon</string>
+    <string name="limon_vasolim">Toca para beber</string>
+    <string name="limon_vasolim_desc">Vaso de Limonada</string>
+    <string name="limon_vasovac">Toca para volver a iniciar</string>
+    <string name="limon_vasovac_desc">Vaso Vacio</string>
+</resources>
